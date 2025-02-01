@@ -5,3 +5,4 @@ requirement:
 python
 kivy
 torch
+![image](https://github.com/user-attachments/assets/17d7b42b-b921-48a7-bf1d-a892aedd8048)
